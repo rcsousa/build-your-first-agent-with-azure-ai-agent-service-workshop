@@ -18,7 +18,8 @@
                 "ms-python.python",
                 "ms-toolsai.jupyter",
                 "ms-python.black-formatter",
-                "mathematic.vscode-pdf"
+                "mathematic.vscode-pdf",
+                "GitHub.copilot-chat"
             ]
         }
     }
